@@ -9,7 +9,7 @@ Aim of project is to make a  management system for School to
 loging in as admin, staff, Student
 and Number of students, Number of staff members, Checking result and attendence of students 
 and adding new student ,new staff member
-then there is an option for signing up to register uers self to use those features
+then there is an option for signing up to register your self to use those features
 
 languages used:-
 1. Java(jdbc)
