@@ -1,7 +1,7 @@
 Project by Baljinder Singh
 @baljinder78
 
-Student management System 
+School management System 
 
 Main aim of project is to make a a management system for 
 loging in as admin, staff, Student
