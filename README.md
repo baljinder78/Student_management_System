@@ -5,11 +5,11 @@ Author:- Baljinder Singh
 
 About Project
 
-Main aim of project is to make a a management system for 
+Aim of project is to make a  management system for School to 
 loging in as admin, staff, Student
 and Number of students, Number of staff members, Checking result and attendence of students 
 and adding new student ,new staff member
-then there is an option for signing up to register uers self to use those fetures
+then there is an option for signing up to register uers self to use those features
 
 languages used:-
 1. Java(jdbc)
