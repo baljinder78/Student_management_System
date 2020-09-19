@@ -1,8 +1,7 @@
 
 School management System 
 
-Author
-Baljinder Singh
+Author:- Baljinder Singh
 
 About Project
 
@@ -13,8 +12,8 @@ and adding new student ,new staff member
 then there is an option for signing up to register uers self to use those fetures
 
 languages used:-
-1.Java(jdbc)
-2.Mysql
+1. Java(jdbc)
+2. Mysql
 
 Modules
 This project contains 2 moduldes:-
