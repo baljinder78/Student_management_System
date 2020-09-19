@@ -1,14 +1,21 @@
-Project by Baljinder Singh
-@baljinder78
 
-School management System 
+#School management System 
 
+#Author
+Baljinder Singh
+
+#About Project
 Main aim of project is to make a a management system for 
 loging in as admin, staff, Student
 and Number of students, Number of staff members, Checking result and attendence of students 
 and adding new student ,new staff member
 then there is an option for signing up to register uers self to use those fetures
 
+#languages used:-
+1.Java(jdbc)
+2.Mysql
+
+#Modules
 This project contains 2 moduldes:-
 1. Login 
 2. signup
@@ -44,7 +51,7 @@ The features Each modules uses are:-
     2.View Attendence
     
     
-    
+#Database
 The database schema used in program is login
 the tables used in schemas are:-
 1.loginall :- Stores all login information with columns 
