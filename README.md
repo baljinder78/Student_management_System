@@ -58,6 +58,7 @@ The database schema used in program is ***"login"***
 ##### The tables used in schemas are:-
 ##### 1. loginall :- 
 >Stores all login information with columns 
+###### Columns:-
      1. username 
      2. passcode
      3. id
@@ -65,8 +66,9 @@ The database schema used in program is ***"login"***
 
 ##### 2. staffallinfo :-
 >Stores all info of Staff members with colums
+###### Columns:-
      1. Name
-     2. Id :- auto genrated,primary
+     2. Id (auto genrated,primary)
      3. Age
      4. Subject
      5. Stream
@@ -74,6 +76,7 @@ The database schema used in program is ***"login"***
 
 ##### 3. studentallinfo :-
 >Stores all info of Students with colums
+###### Columns:-
      1. Name
      2. Id 
      3. Age
@@ -84,6 +87,7 @@ The database schema used in program is ***"login"***
 
 ##### 4. studentattendence :- 
 >Stors attendence of student with colums
+###### Columns:-
      1. Name
      2. Id
      3. Present
@@ -92,16 +96,17 @@ The database schema used in program is ***"login"***
 
 ##### 5. studentresult:- 
 >stores result of student with colums
-     1. Name
-     2. Id
-     3. Physics
-     4. Biology
-     5. Maths
-     6. Accounts
-     7. Buiness Studies
-     8. Chemistry
-     9. Computer
-     10. Total :- derived (Physics+Biology+Maths+Accounts+Buiness Studies+Chemistry+Computer)
-     11. Percentage :-derived (Total*100)/400
+###### Columns:-
+    1. Name
+    2. Id
+    3. Physics
+    4. Biology
+    5. Maths
+    6. Accounts
+    7. Buiness Studies
+    8. Chemistry
+    9. Computer
+    10. Total :- derived (Physics+Biology+Maths+Accounts+Buiness Studies+Chemistry+Computer)
+    11. Percentage :-derived (Total*100)/400
      
     
